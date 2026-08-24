@@ -38,6 +38,9 @@
 ---
 
 ## 📊 Featured Projects
+### 📉 [Databel Customer Churn Analysis](https://github.com/rewnaaaaa/Databel-Customer-Churn-Analysis)
+
+- An end-to-end data analytics project examining telecom customer attrition rates, identifying key churn drivers, and proposing targeted retention strategies.
 
 ### 📈 [Sales Overview Dashboard](https://github.com/rewnaaaaa/Sales-Overview-Dashboard)
 - An interactive Excel dashboard for total revenue tracking, trend analysis, and order performance metrics using Power Query, Power Pivot, and DAX.
