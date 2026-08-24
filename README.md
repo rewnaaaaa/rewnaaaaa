@@ -45,7 +45,7 @@
 ### 🌐 UrbanEco-Vision
 - A data-driven platform empowering cities with environmental decision-making tools (solar energy, water quality, and urban sustainability) leveraging **NASA Open Data**.
 
-### 🚗 Smart Parking System
+### 🚗 [Smart Parking System](https://github.com/rewnaaaaa/Smart-Parking-System)
 - An automated real-time parking management system built using **Arduino & C++**, IR sensors, servo motors, and LCD displays to reduce urban congestion.
 
 ---
