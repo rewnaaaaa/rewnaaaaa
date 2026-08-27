@@ -40,7 +40,7 @@
   - An interactive Excel dashboard analyzing customer feedback and satisfaction metrics.
   - 
 ## 📊 Featured Projects
- [Customer-Satisfaction-Dashboard](https://github.com)
+  📉[Customer-Satisfaction-Dashboard](https://github.com)
 
   - An interactive Excel dashboard analyzing customer feedback and satisfaction metrics.
 
