@@ -35,9 +35,15 @@
 - Public Speaking & Technical Instruction
 - Time Management, Event Organization & Adaptability
 
----
+----
 
+  - An interactive Excel dashboard analyzing customer feedback and satisfaction metrics.
+  - 
 ## 📊 Featured Projects
+ [Customer-Satisfaction-Dashboard](https://github.com)
+
+  - An interactive Excel dashboard analyzing customer feedback and satisfaction metrics.
+
 ### 📉 [Databel Customer Churn Analysis](https://github.com/rewnaaaaa/Databel-Customer-Churn-Analysis)
 
 - An end-to-end data analytics project examining telecom customer attrition rates, identifying key churn drivers, and proposing targeted retention strategies.
